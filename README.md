@@ -7,8 +7,7 @@ I've loved development since I was a child. I'm very curious about new technolog
 ## <img src="assets/chat.png" width ="25"> <b>Networks</b>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/tierry-danquin-oothkoo/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="oothkoo" height="30"/></a>
-    <a href="mailto:contact@oothkoo.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="oothkoo" height="30"/></a>
+    <a href="https://www.linkedin.com/in/tierry-danquin-oothkoo/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="oothkoo" height="30"/></a> <a href="mailto:contact@oothkoo.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="oothkoo" height="30"/></a>
     <a href="https://x.com/oothkoo" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="oothkoo" height="30"/></a>
     <a href="https://www.reddit.com/user/oothkoo/" target="blank"><img align="center" src="https://img.shields.io/badge/reddit-FF4438.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="oothkoo" height="30"/></a>
     <a href="https://discord.com/users/oothkoo" target="blank"><img align="center" src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="oothkoo" height="30"/></a>
