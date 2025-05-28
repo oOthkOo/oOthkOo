@@ -1,8 +1,8 @@
 ## <img src="assets/waving-hand.png" width ="25"> <b>Hi there</b>
 
-My name is Tierry Danquin. I'm a passionate Full-Stack/DevOps developer with over 15 years of professional experience in web, mobile, and backend development.
+Full Stack, Mobile & Web3 Developer with over 15 years of experience, passionate about technical innovation and complex architectures. Expert in frontend (React, Vue, Angular) and backend (Java, NodeJS) development, with strong DevOps expertise (Docker, Linux, Kafka).
 
-I've loved development since I was a child. I'm very curious about new technologies and I thrive on tackling challenges with determination to achieve results, no matter the complexity.
+ETHGlobal finalist, I also develop blockchain solutions on Ethereum/Solana. Proactive, autonomous and always curious, I lead my projects from start to finish with rigor and creativity.
 
 ## <img src="assets/chat.png" width ="25"> <b>Networks</b>
 
