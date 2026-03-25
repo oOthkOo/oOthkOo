@@ -60,6 +60,12 @@ ETHGlobal finalist, I also develop blockchain solutions on Ethereum/Solana. Proa
 
 :heart: Donations are always welcome :heart:.
 
+### Buymeacoffee
+
+[<img height="55px" src="assets/bmac-btn.svg">](https://buymeacoffee.com/oothkoo)
+
+### Crypto
+
 Coins | Symbols | Addresses
 --- | --- | ---
 <img width="32" src="assets/btc.svg" alt="Bitcoin"/> | BTC | `3B52fbzNFQTaKZxWf5GrCUsASD2UP8na4A`
